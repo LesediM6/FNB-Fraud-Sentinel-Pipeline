@@ -20,3 +20,5 @@ This project simulates a banking data environment where raw transaction logs are
 - **Confirmed Fraud Cases**: 116
 - **High-Value Alerts**: 26,448
 - **Alert System**: Suspicious transactions are exported to `fraud_alerts.csv` for forensic review.
+### 📈 Visual Insight
+![Fraud Analysis Report](fraud_analysis_report.png)
