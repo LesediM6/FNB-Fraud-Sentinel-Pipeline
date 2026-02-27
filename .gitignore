@@ -1,0 +1,9 @@
+# Ignore the large raw data files
+transactions.csv
+cleaned_transactions.csv
+
+# Ignore Python cache (junk files Python makes)
+__pycache__/
+
+# Ignore environment variables
+.env
