@@ -1,4 +1,4 @@
-# FNB Fraud Sentinel Pipeline 🇿🇦
+# Fraud Sentinel Pipeline 🇿🇦
 
 A high-performance ETL pipeline designed to ingest, clean, and analyze banking transaction data for fraudulent activity.
 
